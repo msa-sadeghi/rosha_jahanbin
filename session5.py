@@ -58,10 +58,10 @@
 #     print("finally")
 
 
-def is_even_or_odd(number):
-    return number % 2 == 0
+# def is_even_or_odd(number):
+#     return number % 2 == 0
     
 
-print(is_even_or_odd(12))
-print(is_even_or_odd(13))
-print(is_even_or_odd(14))
+# print(is_even_or_odd(12))
+# print(is_even_or_odd(13))
+# print(is_even_or_odd(14))
